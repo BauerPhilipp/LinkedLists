@@ -35,8 +35,20 @@ namespace _01_SingleLinkedList
         /// </summary>
         public void PrintAllItems()
         {
+
             int counter = 0;
             Node<T> currentNode = _lastNode;
+            if(currentNode.Value is Person person)
+            {
+                while (currentNode is not null)
+                {
+                    Person p = currentNode.Value as Person;
+                    Console.WriteLine($"Age of Person: {p.Age}");
+                    currentNode = currentNode.Next;
+                    counter++;
+                }
+            }
+
             while (currentNode is not null)
             {
                 Console.WriteLine(currentNode.Value);
@@ -44,9 +56,7 @@ namespace _01_SingleLinkedList
                 counter++;
             }
             Console.WriteLine($"Total items in SingleLinkedList: {counter}");
-
         }
-
 
     }
 }
