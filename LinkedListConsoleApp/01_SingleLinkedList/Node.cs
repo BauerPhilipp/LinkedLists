@@ -16,17 +16,17 @@ namespace _01_SingleLinkedList
         /// Item stored in Node
         /// </summary>
         public T Value { get; set; }
-        public Node<T> Next { get;  private set; }
+        public Node<T> PrevNode { get;  private set; }
 
         public void Insert(T value)
         {
-            if(Next is not null)
+            if(PrevNode is not null)
             {
-                Next.Insert(value);
+                PrevNode.Insert(value);
                 return;
             }
 
-            Next = new Node<T>() { Value = value };
+            PrevNode = new Node<T>() { Value = value };
         }
     }
 }

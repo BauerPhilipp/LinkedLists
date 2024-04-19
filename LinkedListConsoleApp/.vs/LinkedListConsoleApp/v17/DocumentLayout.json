@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Program Files (x86)\\PB Programme\\Projekte\\C# Projekte\\LinkedListConsoleApp\\LinkedListConsoleApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{95865A35-ACFD-40B0-87C9-E9471FE0C2C5}|01_SingleLinkedList\\01_SingleLinkedList.csproj|c:\\program files (x86)\\pb programme\\projekte\\c# projekte\\linkedlistconsoleapp\\linkedlistconsoleapp\\01_singlelinkedlist\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95865A35-ACFD-40B0-87C9-E9471FE0C2C5}|01_SingleLinkedList\\01_SingleLinkedList.csproj|solutionrelative:01_singlelinkedlist\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{644DD389-F671-444D-BD1E-7E72428EECE5}|DoubleLinkedList\\DoubleLinkedList.csproj|c:\\program files (x86)\\pb programme\\projekte\\c# projekte\\linkedlistconsoleapp\\linkedlistconsoleapp\\doublelinkedlist\\doublelinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{644DD389-F671-444D-BD1E-7E72428EECE5}|DoubleLinkedList\\DoubleLinkedList.csproj|solutionrelative:doublelinkedlist\\doublelinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95865A35-ACFD-40B0-87C9-E9471FE0C2C5}|01_SingleLinkedList\\01_SingleLinkedList.csproj|c:\\program files (x86)\\pb programme\\projekte\\c# projekte\\linkedlistconsoleapp\\linkedlistconsoleapp\\01_singlelinkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95865A35-ACFD-40B0-87C9-E9471FE0C2C5}|01_SingleLinkedList\\01_SingleLinkedList.csproj|solutionrelative:01_singlelinkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{644DD389-F671-444D-BD1E-7E72428EECE5}|DoubleLinkedList\\DoubleLinkedList.csproj|c:\\program files (x86)\\pb programme\\projekte\\c# projekte\\linkedlistconsoleapp\\linkedlistconsoleapp\\doublelinkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{644DD389-F671-444D-BD1E-7E72428EECE5}|DoubleLinkedList\\DoubleLinkedList.csproj|solutionrelative:doublelinkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95865A35-ACFD-40B0-87C9-E9471FE0C2C5}|01_SingleLinkedList\\01_SingleLinkedList.csproj|c:\\program files (x86)\\pb programme\\projekte\\c# projekte\\linkedlistconsoleapp\\linkedlistconsoleapp\\01_singlelinkedlist\\singlelinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95865A35-ACFD-40B0-87C9-E9471FE0C2C5}|01_SingleLinkedList\\01_SingleLinkedList.csproj|solutionrelative:01_singlelinkedlist\\singlelinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{644DD389-F671-444D-BD1E-7E72428EECE5}|DoubleLinkedList\\DoubleLinkedList.csproj|c:\\program files (x86)\\pb programme\\projekte\\c# projekte\\linkedlistconsoleapp\\linkedlistconsoleapp\\doublelinkedlist\\ant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{644DD389-F671-444D-BD1E-7E72428EECE5}|DoubleLinkedList\\DoubleLinkedList.csproj|solutionrelative:doublelinkedlist\\ant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95865A35-ACFD-40B0-87C9-E9471FE0C2C5}|01_SingleLinkedList\\01_SingleLinkedList.csproj|c:\\program files (x86)\\pb programme\\projekte\\c# projekte\\linkedlistconsoleapp\\linkedlistconsoleapp\\01_singlelinkedlist\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95865A35-ACFD-40B0-87C9-E9471FE0C2C5}|01_SingleLinkedList\\01_SingleLinkedList.csproj|solutionrelative:01_singlelinkedlist\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{644DD389-F671-444D-BD1E-7E72428EECE5}|DoubleLinkedList\\DoubleLinkedList.csproj|c:\\program files (x86)\\pb programme\\projekte\\c# projekte\\linkedlistconsoleapp\\linkedlistconsoleapp\\doublelinkedlist\\spider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{644DD389-F671-444D-BD1E-7E72428EECE5}|DoubleLinkedList\\DoubleLinkedList.csproj|solutionrelative:doublelinkedlist\\spider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{644DD389-F671-444D-BD1E-7E72428EECE5}|DoubleLinkedList\\DoubleLinkedList.csproj|c:\\program files (x86)\\pb programme\\projekte\\c# projekte\\linkedlistconsoleapp\\linkedlistconsoleapp\\doublelinkedlist\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{644DD389-F671-444D-BD1E-7E72428EECE5}|DoubleLinkedList\\DoubleLinkedList.csproj|solutionrelative:doublelinkedlist\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,54 +46,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Program Files (x86)\\PB Programme\\Projekte\\C# Projekte\\LinkedListConsoleApp\\LinkedListConsoleApp\\01_SingleLinkedList\\Person.cs",
-              "RelativeDocumentMoniker": "01_SingleLinkedList\\Person.cs",
-              "ToolTip": "C:\\Program Files (x86)\\PB Programme\\Projekte\\C# Projekte\\LinkedListConsoleApp\\LinkedListConsoleApp\\01_SingleLinkedList\\Person.cs",
-              "RelativeToolTip": "01_SingleLinkedList\\Person.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "DocumentIndex": 2,
+              "Title": "Ant.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\PB Programme\\Projekte\\C# Projekte\\LinkedListConsoleApp\\LinkedListConsoleApp\\DoubleLinkedList\\Ant.cs",
+              "RelativeDocumentMoniker": "DoubleLinkedList\\Ant.cs",
+              "ToolTip": "C:\\Program Files (x86)\\PB Programme\\Projekte\\C# Projekte\\LinkedListConsoleApp\\LinkedListConsoleApp\\DoubleLinkedList\\Ant.cs",
+              "RelativeToolTip": "DoubleLinkedList\\Ant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T04:59:02.72Z",
+              "WhenOpened": "2024-04-19T05:40:30.095Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SingleLinkedList.cs",
-              "DocumentMoniker": "C:\\Program Files (x86)\\PB Programme\\Projekte\\C# Projekte\\LinkedListConsoleApp\\LinkedListConsoleApp\\01_SingleLinkedList\\SingleLinkedList.cs",
-              "RelativeDocumentMoniker": "01_SingleLinkedList\\SingleLinkedList.cs",
-              "ToolTip": "C:\\Program Files (x86)\\PB Programme\\Projekte\\C# Projekte\\LinkedListConsoleApp\\LinkedListConsoleApp\\01_SingleLinkedList\\SingleLinkedList.cs",
-              "RelativeToolTip": "01_SingleLinkedList\\SingleLinkedList.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAA9AAAA",
+              "DocumentIndex": 3,
+              "Title": "Spider.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\PB Programme\\Projekte\\C# Projekte\\LinkedListConsoleApp\\LinkedListConsoleApp\\DoubleLinkedList\\Spider.cs",
+              "RelativeDocumentMoniker": "DoubleLinkedList\\Spider.cs",
+              "ToolTip": "C:\\Program Files (x86)\\PB Programme\\Projekte\\C# Projekte\\LinkedListConsoleApp\\LinkedListConsoleApp\\DoubleLinkedList\\Spider.cs",
+              "RelativeToolTip": "DoubleLinkedList\\Spider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T16:54:24.501Z",
+              "WhenOpened": "2024-04-19T05:40:26.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\PB Programme\\Projekte\\C# Projekte\\LinkedListConsoleApp\\LinkedListConsoleApp\\DoubleLinkedList\\Animal.cs",
+              "RelativeDocumentMoniker": "DoubleLinkedList\\Animal.cs",
+              "ToolTip": "C:\\Program Files (x86)\\PB Programme\\Projekte\\C# Projekte\\LinkedListConsoleApp\\LinkedListConsoleApp\\DoubleLinkedList\\Animal.cs",
+              "RelativeToolTip": "DoubleLinkedList\\Animal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T04:34:03.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoubleLinkedList.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\PB Programme\\Projekte\\C# Projekte\\LinkedListConsoleApp\\LinkedListConsoleApp\\DoubleLinkedList\\DoubleLinkedList.cs",
+              "RelativeDocumentMoniker": "DoubleLinkedList\\DoubleLinkedList.cs",
+              "ToolTip": "C:\\Program Files (x86)\\PB Programme\\Projekte\\C# Projekte\\LinkedListConsoleApp\\LinkedListConsoleApp\\DoubleLinkedList\\DoubleLinkedList.cs",
+              "RelativeToolTip": "DoubleLinkedList\\DoubleLinkedList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T03:43:52.789Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Program Files (x86)\\PB Programme\\Projekte\\C# Projekte\\LinkedListConsoleApp\\LinkedListConsoleApp\\01_SingleLinkedList\\Program.cs",
-              "RelativeDocumentMoniker": "01_SingleLinkedList\\Program.cs",
-              "ToolTip": "C:\\Program Files (x86)\\PB Programme\\Projekte\\C# Projekte\\LinkedListConsoleApp\\LinkedListConsoleApp\\01_SingleLinkedList\\Program.cs",
-              "RelativeToolTip": "01_SingleLinkedList\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "DocumentMoniker": "C:\\Program Files (x86)\\PB Programme\\Projekte\\C# Projekte\\LinkedListConsoleApp\\LinkedListConsoleApp\\DoubleLinkedList\\Program.cs",
+              "RelativeDocumentMoniker": "DoubleLinkedList\\Program.cs",
+              "ToolTip": "C:\\Program Files (x86)\\PB Programme\\Projekte\\C# Projekte\\LinkedListConsoleApp\\LinkedListConsoleApp\\DoubleLinkedList\\Program.cs",
+              "RelativeToolTip": "DoubleLinkedList\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T16:54:23.749Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Node.cs",
-              "DocumentMoniker": "C:\\Program Files (x86)\\PB Programme\\Projekte\\C# Projekte\\LinkedListConsoleApp\\LinkedListConsoleApp\\01_SingleLinkedList\\Node.cs",
-              "RelativeDocumentMoniker": "01_SingleLinkedList\\Node.cs",
-              "ToolTip": "C:\\Program Files (x86)\\PB Programme\\Projekte\\C# Projekte\\LinkedListConsoleApp\\LinkedListConsoleApp\\01_SingleLinkedList\\Node.cs",
-              "RelativeToolTip": "01_SingleLinkedList\\Node.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T07:35:11.852Z",
+              "WhenOpened": "2024-04-19T03:42:45.662Z",
               "EditorCaption": ""
             }
           ]

@@ -18,7 +18,7 @@ namespace _01_SingleLinkedList
         /// <param name="value"></param>
         public SingleLinkedList(T value) 
         {
-                _lastNode = new Node<T> { Value = value};
+            _lastNode = new Node<T> { Value = value};
         }
 
         /// <summary>
@@ -44,7 +44,7 @@ namespace _01_SingleLinkedList
                 {
                     Person p = currentNode.Value as Person;
                     Console.WriteLine($"Age of Person: {p.Age}");
-                    currentNode = currentNode.Next;
+                    currentNode = currentNode.PrevNode;
                     counter++;
                 }
             }
@@ -52,7 +52,7 @@ namespace _01_SingleLinkedList
             while (currentNode is not null)
             {
                 Console.WriteLine(currentNode.Value);
-                currentNode = currentNode.Next; 
+                currentNode = currentNode.PrevNode; 
                 counter++;
             }
             Console.WriteLine($"Total items in SingleLinkedList: {counter}");
