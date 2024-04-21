@@ -1,0 +1,15 @@
+D:\Projects\C# Projects\LinkedList\LinkedListConsoleApp\01_SingleLinkedList\bin\Debug\net8.0\01_SingleLinkedList.exe
+D:\Projects\C# Projects\LinkedList\LinkedListConsoleApp\01_SingleLinkedList\bin\Debug\net8.0\01_SingleLinkedList.deps.json
+D:\Projects\C# Projects\LinkedList\LinkedListConsoleApp\01_SingleLinkedList\bin\Debug\net8.0\01_SingleLinkedList.runtimeconfig.json
+D:\Projects\C# Projects\LinkedList\LinkedListConsoleApp\01_SingleLinkedList\bin\Debug\net8.0\01_SingleLinkedList.dll
+D:\Projects\C# Projects\LinkedList\LinkedListConsoleApp\01_SingleLinkedList\bin\Debug\net8.0\01_SingleLinkedList.pdb
+D:\Projects\C# Projects\LinkedList\LinkedListConsoleApp\01_SingleLinkedList\obj\Debug\net8.0\01_SingleLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C# Projects\LinkedList\LinkedListConsoleApp\01_SingleLinkedList\obj\Debug\net8.0\01_SingleLinkedList.AssemblyInfoInputs.cache
+D:\Projects\C# Projects\LinkedList\LinkedListConsoleApp\01_SingleLinkedList\obj\Debug\net8.0\01_SingleLinkedList.AssemblyInfo.cs
+D:\Projects\C# Projects\LinkedList\LinkedListConsoleApp\01_SingleLinkedList\obj\Debug\net8.0\01_SingleLinkedList.csproj.CoreCompileInputs.cache
+D:\Projects\C# Projects\LinkedList\LinkedListConsoleApp\01_SingleLinkedList\obj\Debug\net8.0\01_SingleLinkedList.sourcelink.json
+D:\Projects\C# Projects\LinkedList\LinkedListConsoleApp\01_SingleLinkedList\obj\Debug\net8.0\01_SingleLinkedList.dll
+D:\Projects\C# Projects\LinkedList\LinkedListConsoleApp\01_SingleLinkedList\obj\Debug\net8.0\refint\01_SingleLinkedList.dll
+D:\Projects\C# Projects\LinkedList\LinkedListConsoleApp\01_SingleLinkedList\obj\Debug\net8.0\01_SingleLinkedList.pdb
+D:\Projects\C# Projects\LinkedList\LinkedListConsoleApp\01_SingleLinkedList\obj\Debug\net8.0\01_SingleLinkedList.genruntimeconfig.cache
+D:\Projects\C# Projects\LinkedList\LinkedListConsoleApp\01_SingleLinkedList\obj\Debug\net8.0\ref\01_SingleLinkedList.dll

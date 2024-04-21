@@ -49,6 +49,9 @@
             }
 
             linkedListPerson.PrintAllItems();
+            Console.WriteLine();
+            Console.WriteLine("List with Person objects in reverse");
+            linkedListPerson.PrintAllItemsReverse();
         }
     }
 }

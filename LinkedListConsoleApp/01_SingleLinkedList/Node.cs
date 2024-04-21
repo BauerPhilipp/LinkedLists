@@ -16,17 +16,25 @@ namespace _01_SingleLinkedList
         /// Item stored in Node
         /// </summary>
         public T Value { get; set; }
-        public Node<T> PrevNode { get;  private set; }
 
-        public void Insert(T value)
+        /// <summary>
+        /// The next node is the prev _root node
+        /// </summary>
+
+        private Node<T> _nextNode;
+
+        public Node<T> NextNode { get; set; }
+
+
+
+        /// <summary>
+        /// Override the ToString for easy debugging
+        /// </summary>
+        /// <returns></returns>
+        public override string ToString()
         {
-            if(PrevNode is not null)
-            {
-                PrevNode.Insert(value);
-                return;
-            }
-
-            PrevNode = new Node<T>() { Value = value };
+            return Value.ToString();
         }
+
     }
 }

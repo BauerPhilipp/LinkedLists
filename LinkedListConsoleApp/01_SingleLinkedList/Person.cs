@@ -8,7 +8,12 @@ namespace _01_SingleLinkedList
 {
     internal class Person
     {
-        public int Age { get; set; }  
+        public int Age { get; set; }
+
+        public override string ToString()
+        {
+            return "Person Age: " + Age;
+        }
 
     }
 }
