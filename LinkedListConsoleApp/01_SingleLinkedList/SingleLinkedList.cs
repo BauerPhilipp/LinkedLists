@@ -1,21 +1,15 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Runtime.CompilerServices;
-using System.Runtime.InteropServices;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _01_SingleLinkedList
 {
     internal class SingleLinkedList<T>
     {  
 
-
-        // Stores the last AddedItem
+        // Stores the last AddedItem. This is the first item in the list
         private Node<T> _rootNode;
 
-        // Stores the first AddedItem;
+        // Stores the first AddedItem. This is the last item in the list
         private Node<T> _lastNode;
 
         /// <summary>
@@ -28,17 +22,16 @@ namespace _01_SingleLinkedList
         /// <summary>
         /// Initialise linkedList and add first item
         /// </summary>
-        /// <param name="value"></param>
+        /// <param name="value">Object to store in the list</param>
         public SingleLinkedList(T value) 
         {
-            _rootNode = new Node<T> { Value = value};
-            _lastNode = _rootNode;
+            AddItem(value);
         }
 
         /// <summary>
         /// Add an item to the list
         /// </summary>
-        /// <param name="value"></param>
+        /// <param name="value">Object to store in the list</param>
         public void AddItem(T value)
         {
             if (_rootNode is null)
@@ -58,7 +51,12 @@ namespace _01_SingleLinkedList
         /// </summary>
         public void PrintAllItems()
         {
-
+            // Abort if no items in list
+            if (_rootNode is null)
+            {
+                Console.WriteLine($"This list is epty: {this}");
+                return;
+            }
             int counter = 0;
             Node<T> currentNode = _rootNode;
 
@@ -71,8 +69,19 @@ namespace _01_SingleLinkedList
             Console.WriteLine($"Total items in SingleLinkedList: {counter}");
         }
 
+        /// <summary>
+        /// Print all items to the console but in reverse order
+        /// </summary>
         public void PrintAllItemsReverse()
         {
+            // Abort if no items in list
+            if (_rootNode is null)
+            {
+                Console.WriteLine($"This list is epty: {this}");
+                return;
+            }
+            Console.WriteLine();
+            Console.WriteLine("List with Person objects in reverse order");
             Node<T> currentNode = _rootNode;
             int counter = -1;
 
@@ -92,7 +101,7 @@ namespace _01_SingleLinkedList
                 Console.WriteLine(currentNode);
                 counter--;
                 if(counter < 0) { currentNode = _rootNode; }
-            }        
+            }
         }
     }
 

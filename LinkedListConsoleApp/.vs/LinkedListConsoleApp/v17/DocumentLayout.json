@@ -11,12 +11,12 @@
       "RelativeMoniker": "D:0:0:{95865A35-ACFD-40B0-87C9-E9471FE0C2C5}|01_SingleLinkedList\\01_SingleLinkedList.csproj|solutionrelative:01_singlelinkedlist\\singlelinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95865A35-ACFD-40B0-87C9-E9471FE0C2C5}|01_SingleLinkedList\\01_SingleLinkedList.csproj|d:\\projects\\c# projects\\linkedlist\\linkedlistconsoleapp\\01_singlelinkedlist\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95865A35-ACFD-40B0-87C9-E9471FE0C2C5}|01_SingleLinkedList\\01_SingleLinkedList.csproj|solutionrelative:01_singlelinkedlist\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{95865A35-ACFD-40B0-87C9-E9471FE0C2C5}|01_SingleLinkedList\\01_SingleLinkedList.csproj|d:\\projects\\c# projects\\linkedlist\\linkedlistconsoleapp\\01_singlelinkedlist\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95865A35-ACFD-40B0-87C9-E9471FE0C2C5}|01_SingleLinkedList\\01_SingleLinkedList.csproj|solutionrelative:01_singlelinkedlist\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95865A35-ACFD-40B0-87C9-E9471FE0C2C5}|01_SingleLinkedList\\01_SingleLinkedList.csproj|d:\\projects\\c# projects\\linkedlist\\linkedlistconsoleapp\\01_singlelinkedlist\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95865A35-ACFD-40B0-87C9-E9471FE0C2C5}|01_SingleLinkedList\\01_SingleLinkedList.csproj|solutionrelative:01_singlelinkedlist\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,54 +42,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Projects\\C# Projects\\LinkedList\\LinkedListConsoleApp\\01_SingleLinkedList\\Program.cs",
-              "RelativeDocumentMoniker": "01_SingleLinkedList\\Program.cs",
-              "ToolTip": "D:\\Projects\\C# Projects\\LinkedList\\LinkedListConsoleApp\\01_SingleLinkedList\\Program.cs",
-              "RelativeToolTip": "01_SingleLinkedList\\Program.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAowDQAAABCAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T08:54:47.422Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Person.cs",
-              "DocumentMoniker": "D:\\Projects\\C# Projects\\LinkedList\\LinkedListConsoleApp\\01_SingleLinkedList\\Person.cs",
-              "RelativeDocumentMoniker": "01_SingleLinkedList\\Person.cs",
-              "ToolTip": "D:\\Projects\\C# Projects\\LinkedList\\LinkedListConsoleApp\\01_SingleLinkedList\\Person.cs",
-              "RelativeToolTip": "01_SingleLinkedList\\Person.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T08:30:26.428Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "SingleLinkedList.cs",
               "DocumentMoniker": "D:\\Projects\\C# Projects\\LinkedList\\LinkedListConsoleApp\\01_SingleLinkedList\\SingleLinkedList.cs",
               "RelativeDocumentMoniker": "01_SingleLinkedList\\SingleLinkedList.cs",
               "ToolTip": "D:\\Projects\\C# Projects\\LinkedList\\LinkedListConsoleApp\\01_SingleLinkedList\\SingleLinkedList.cs",
               "RelativeToolTip": "01_SingleLinkedList\\SingleLinkedList.cs",
-              "ViewState": "AQIAAD4AAAAAAAAAAAAIwF8AAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T05:45:03.552Z",
+              "WhenOpened": "2024-04-21T10:49:12.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\C# Projects\\LinkedList\\LinkedListConsoleApp\\01_SingleLinkedList\\Program.cs",
+              "RelativeDocumentMoniker": "01_SingleLinkedList\\Program.cs",
+              "ToolTip": "D:\\Projects\\C# Projects\\LinkedList\\LinkedListConsoleApp\\01_SingleLinkedList\\Program.cs",
+              "RelativeToolTip": "01_SingleLinkedList\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T10:49:11.808Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\Projects\\C# Projects\\LinkedList\\LinkedListConsoleApp\\01_SingleLinkedList\\Person.cs",
+              "RelativeDocumentMoniker": "01_SingleLinkedList\\Person.cs",
+              "ToolTip": "D:\\Projects\\C# Projects\\LinkedList\\LinkedListConsoleApp\\01_SingleLinkedList\\Person.cs",
+              "RelativeToolTip": "01_SingleLinkedList\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T10:49:10.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Node.cs",
               "DocumentMoniker": "D:\\Projects\\C# Projects\\LinkedList\\LinkedListConsoleApp\\01_SingleLinkedList\\Node.cs",
               "RelativeDocumentMoniker": "01_SingleLinkedList\\Node.cs",
               "ToolTip": "D:\\Projects\\C# Projects\\LinkedList\\LinkedListConsoleApp\\01_SingleLinkedList\\Node.cs",
               "RelativeToolTip": "01_SingleLinkedList\\Node.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAAAtAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T05:37:20.037Z"
+              "WhenOpened": "2024-04-21T10:49:09.93Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -2,56 +2,68 @@
 {
     internal class Program
     {
-        private static string name = "Hans";
-        private static int listItemsToGenerate = 10;
+        /// <summary>
+        /// simple placeholder
+        /// </summary>
+        private static string _name = "Hans";
+        /// <summary>
+        /// To add or reduce items in the generated list adjust the value.
+        /// </summary>
+        private static int _listItemsToGenerate = 10;
+
         static void Main(string[] args)
         {
+            //Start the test case
             StartTest();
         }
 
+
+        /// <summary>
+        /// Functional test of different cases
+        /// </summary>
         private static void StartTest()
         {
 
             //Test with strings values
             Console.WriteLine("List with string");
-            SingleLinkedList<string> linkedListString = new SingleLinkedList<string>(name);
+            SingleLinkedList<string> linkedListHans = new();
 
-            for (int i = 0; i < listItemsToGenerate; i++)
+            for (int i = 0; i < _listItemsToGenerate; i++)
             {
-                linkedListString.AddItem(name + " " + i);
+                linkedListHans.AddItem(_name + " " + i);
             }
 
-            linkedListString.PrintAllItems();
+            linkedListHans.PrintAllItems();
+            //linkedListHans.PrintAllItemsReverse(); // Additional test
 
             //Test with int values
             Console.WriteLine();
             Console.WriteLine("List with int");
-            SingleLinkedList<int> linkedListInt = new SingleLinkedList<int>(0);
+            SingleLinkedList<int> linkedListNumber = new();
 
             Random random;
-            for (int i = 0; i < listItemsToGenerate; i++)
+            for (int i = 0; i < _listItemsToGenerate; i++)
             {
                 random = new Random();
-                linkedListInt.AddItem(random.Next(1, 100));
+                linkedListNumber.AddItem(random.Next(1, 100));
             }
 
-            linkedListInt.PrintAllItems();
+            linkedListNumber.PrintAllItems();
+            //linkedListNumber.PrintAllItemsReverse(); // Additional test
 
             //Test with Person
             Console.WriteLine();
             Console.WriteLine("List with Person objects");
-            SingleLinkedList<Person> linkedListPerson = new SingleLinkedList<Person>(new Person() { Age = 10 });
+            SingleLinkedList<Person> linkedListPeople = new(new Person() { Age = 10 });
 
-            for (int i = 0; i < listItemsToGenerate + 5; i++)
+            for (int i = 0; i < _listItemsToGenerate + 5; i++)
             {
                 random = new Random();
-                linkedListPerson.AddItem(new Person() { Age = random.Next(1, 99) });
+                linkedListPeople.AddItem(new Person() { Age = random.Next(1, 99) });
             }
 
-            linkedListPerson.PrintAllItems();
-            Console.WriteLine();
-            Console.WriteLine("List with Person objects in reverse");
-            linkedListPerson.PrintAllItemsReverse();
+            linkedListPeople.PrintAllItems();
+            linkedListPeople.PrintAllItemsReverse();
         }
     }
 }

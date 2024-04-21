@@ -1,13 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 
 namespace _01_SingleLinkedList
 {
     /// <summary>
-    /// Node for the List-Item
+    /// Node for storing the Item
     /// </summary>
     /// <typeparam name="T"></typeparam>
     internal class Node<T>
@@ -21,14 +17,11 @@ namespace _01_SingleLinkedList
         /// The next node is the prev _root node
         /// </summary>
 
-        private Node<T> _nextNode;
-
         public Node<T> NextNode { get; set; }
 
 
-
         /// <summary>
-        /// Override the ToString for easy debugging
+        /// Returns Value.ToString();
         /// </summary>
         /// <returns></returns>
         public override string ToString()
